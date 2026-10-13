@@ -1,0 +1,35 @@
+Question 1: What do you envision yourself doing 5 minutes before class starts each day, to ensure that you are ready to start on time?
+
+Everyone is getting their tech ready or already has it prepared by the time class starts. Some are reviewing notes or getting their drinks ready to stay alert. The default summary is not helpful. Since this answer is open-ended, the summary missed the context of what the question was asking. It states that everyone answered what they do minutes before class, but that is not a clear answer. One challenge that comes with written responses is having to read through each answer to understand the context. Some responses contain grammatical or syntax errors, which can skew the results. Some people did provide similar responses, which was reflected in the summary. The question could have been formatted as a poll with guided responses to gain a clearer understanding of what people are doing without having to read every response for clarification. Another option could have been added for answers that do not align with the predetermined responses.
+
+Question 2: Do you have a second monitor connected to your computer?
+
+The responses were split nearly evenly, with approximately the same number of people answering "Yes" and "No." The visualization helps because it presents the results as a graph, showing the percentages of each response. The "Other" option provided additional details. Some of those responses were essentially "Yes" or "No" answers but included more explanation, so they were not counted in the overall results. Others described different ways of using a second monitor. I think the question was phrased correctly, and the responses were appropriate.
+
+Question 3: Do you have an external keyboard and mouse?
+
+Most students have an external keyboard and mouse. One student only had a keyboard, and another only had a mouse. The visualizations help by showing a clear comparison between students who have the equipment and those who do not. The "Other" option allowed students to specify which of the two pieces of external hardware they had. I think the question was phrased correctly, and the responses were appropriate.
+
+Question 4: How do you plan to take notes for this class: in a document on your computer, with pen and paper, or something else?
+
+The majority of students use pen and paper, while the rest take notes on their computers. Some use both methods, and a few use an iPad. Yes, the summary helped show the students' choices. It provided a useful count that supported the descriptions. An option for "Both" should have been included as well.
+
+Question 5: What is one question that you have right now about this course generally, or about a specific topic we'll be discussing?
+
+Some responses were left blank or contained "N/A," but overall, most people had questions related to the course. Not many questions were repeated. The summary is not very helpful because there is a large amount of information to analyze. Most questions relate to Data Analytics, but they cover a wide range of topics. Since these are written responses, the analyst would need to review each question individually to provide an answer because they are all different. This could be very time-consuming. I think the question is worded well since it is open-ended and unstructured. The responses are naturally going to vary.
+
+6. Is there anything that surprised you about the survey responses?
+
+It surprised me that people who had external hardware also chose to use pen and paper for taking notes. I assumed that since they have the additional technology, they would be more willing to use it.
+
+7. Looking at the responses to Questions 1 and 5, are there any ideas you might try to include in your morning routine, or any questions that you are also curious about?
+
+I would like to practice more in Git Bash. There are many commands that can automate operations, such as loops, as well as simple commands that can save time on tasks I am currently doing manually.
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help in how you approach teaching this class?
+
+This survey shows that many students are prepared and have the necessary equipment. As an instructor, I would pay close attention to Question 5 to address any concerns students may have and resolve any pressing issues. Additionally, for students who may be missing hardware required for the course, I would try to provide resources to help them obtain it.
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to make this survey anonymous? Why or why not?
+
+I think it was helpful to make the survey anonymous. There are many advantages to anonymous surveys. People may be more honest if they feel that their responses cannot be traced back to them. They can provide feedback that they might not otherwise share if their names were attached to their responses. The only disadvantage I can think of is that individuals who may need personal assistance could go unnoticed because it would be difficult to identify who they are.
