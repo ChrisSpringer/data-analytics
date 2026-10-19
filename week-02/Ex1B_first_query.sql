@@ -1,0 +1,3 @@
+/*
+The sakila database stores the information for actors and their respective movies
+*/
