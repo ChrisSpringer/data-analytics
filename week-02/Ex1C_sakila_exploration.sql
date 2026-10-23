@@ -14,4 +14,5 @@ f) I would need the film, inventory and the rental table. The film table holds t
 
 SELECT film_id, title FROM film;
 SELECT inventory_id, film_id FROM inventory;
-SELECT rental_date, inventory_id FROM rental;
+SELECT rental_date, inventory_id FROM rental; 
+
